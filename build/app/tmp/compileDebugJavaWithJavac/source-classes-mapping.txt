@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/crypto_tracker/BuildConfig.java
+ com.example.crypto_tracker.BuildConfig
+com/example/crypto_tracker/MainActivity.java
+ com.example.crypto_tracker.MainActivity
